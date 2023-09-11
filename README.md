@@ -1,6 +1,6 @@
 # My-Second-GitHub
 This is my 2nd GitHub Project.
 <br> 
-Author - Kalp Chaniyara
+Author : Kalp Chaniyara
 <br>
-College - DA-IICT
+College : DA-IICT
